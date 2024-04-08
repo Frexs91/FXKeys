@@ -1,0 +1,5 @@
+/* Styles pour l'image du jeu */
+.game-img {
+    width: 300px; /* Largeur fixe pour l'image */
+    height: auto; /* Pour maintenir le ratio de l'image */
+}
